@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para me contatar me siga nas redes sociais abaixo!
  
 <div> 
   <a href="https://www.instagram.com/issac.mendes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
